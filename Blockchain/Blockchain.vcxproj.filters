@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Utility_Function">
+      <UniqueIdentifier>{b5e52cd9-bdc9-4fc5-9b5c-6c698ad3b3ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Utility_Function">
+      <UniqueIdentifier>{69a3cff9-9269-4b99-b94b-a90395c72d71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Decoder">
+      <UniqueIdentifier>{3723d6aa-2ba0-4675-af05-8cfa6bf0cfe6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Decoder">
+      <UniqueIdentifier>{63b02d08-5e59-4987-a93c-b1dbd9540a97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Block">
+      <UniqueIdentifier>{78a819fa-a392-4f73-a647-5e0bf6deffb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Block">
+      <UniqueIdentifier>{eeb59179-7890-4c12-b164-273d85b3e917}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="decoder\LDPC.h">
+      <Filter>헤더 파일\Decoder</Filter>
+    </ClInclude>
+    <ClInclude Include="utility_function\Memory_Manage.h">
+      <Filter>헤더 파일\Utility_Function</Filter>
+    </ClInclude>
+    <ClInclude Include="utility_function\Def_List.h">
+      <Filter>헤더 파일\Utility_Function</Filter>
+    </ClInclude>
+    <ClInclude Include="block\BlockHeader.h">
+      <Filter>헤더 파일\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="utility_function\sha256.h">
+      <Filter>헤더 파일\Block</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="decoder\LDPC.cpp">
+      <Filter>소스 파일\Decoder</Filter>
+    </ClCompile>
+    <ClCompile Include="utility_function\Memory_Manage.cpp">
+      <Filter>소스 파일\Utility_Function</Filter>
+    </ClCompile>
+    <ClCompile Include="block\BlockHeader.cpp">
+      <Filter>소스 파일\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="utility_function\sha256.cpp">
+      <Filter>소스 파일\Utility_Function</Filter>
+    </ClCompile>
+    <ClCompile Include="Blockchain.cpp">
+      <Filter>소스 파일\Utility_Function</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+﻿  Blockchain.cpp
+c:\users\박상준\source\blockchain\blockchain\blockchain.cpp(36): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박상준\source\blockchain\blockchain\blockchain.cpp(64): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\박상준\source\blockchain\blockchain\blockchain.cpp(88): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Blockchain.vcxproj -> C:\Users\박상준\source\Blockchain\Debug\Blockchain.exe

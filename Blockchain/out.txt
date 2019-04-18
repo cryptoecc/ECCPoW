@@ -1,0 +1,22 @@
+Nc = 64 Nr = 32 nc = 3 nr = 6 expected of d_min = 7
+Set of crossover probabilites
+0.015625	0.031250	0.046875	
+
+
+Cross over : 0.015625	 Seed : 17645 
+Hamming weight
+Num_of_Success
+Num_of_Iteration
+1	2	3	4	5	6	
+3275	2579	1704	871	392	214	
+4265	6204	6686	4570	2385	1352	
+
+
+Cross over : 0.031250	 Seed : 17713 
+Hamming weight
+Num_of_Success
+Num_of_Iteration
+1	2	3	4	5	6	
+3759	3404	2736	1802	877	485	
+4525	7101	9323	8853	5063	2710	
+

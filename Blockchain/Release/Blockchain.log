@@ -1,0 +1,15 @@
+﻿  Blockchain.cpp
+c:\cjh\2_project\2_ldpc\ref\blockchain\blockchain\blockchain.cpp(36): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\cjh\2_project\2_ldpc\ref\blockchain\blockchain\blockchain.cpp(74): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\cjh\2_project\2_ldpc\ref\blockchain\blockchain\blockchain.cpp(76): warning C4244: '인수': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\cjh\2_project\2_ldpc\ref\blockchain\blockchain\blockchain.cpp(104): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BlockHeader.cpp
+c:\cjh\2_project\2_ldpc\ref\blockchain\blockchain\block\blockheader.cpp(68): warning C4244: '=': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\cjh\2_project\2_ldpc\ref\blockchain\blockchain\block\blockheader.cpp(128): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LDPC.cpp
+  코드를 생성하고 있습니다.
+  0 of 140 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Blockchain.vcxproj -> C:\CJH\2_project\2_LDPC\REF\Blockchain\Release\Blockchain.exe
