@@ -20,10 +20,10 @@ ECCPoW was developed in GIST's Infonet lab. if you want to contact us, please go
 
 ## Development Environment
 
-OS : Window 10 (64 bit)
-IDE : Visual Studio 2017(v141)
-SDK : 10.0.17763.0
-Programming language : C++
+- OS : Window 10 (64 bit)
+- IDE : Visual Studio 2017(v141)
+- SDK : 10.0.17763.0
+- Programming language : C++
 
 ## Testing
 
