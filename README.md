@@ -8,7 +8,7 @@ So, We needs new time-variant PoW. Basically, ASICs are useful when crypto puzzl
 
 ## What is ECCPoW?
 
-![picture1](C:\Users\PAAA\Desktop\picture1.png)
+![picture1](https://github.com/paaabx3/ECCPoW/issues/1#issue-442792189)
 
 ## Who made it?
 
