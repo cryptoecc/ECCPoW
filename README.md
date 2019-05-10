@@ -10,14 +10,13 @@ So, We needs new time-variant PoW. Basically, ASICs are useful when crypto puzzl
 
 ![picture1](https://user-images.githubusercontent.com/25213941/57541109-3f3a2600-7389-11e9-9bf4-5170ded0eeaa.jpg)
 
+- Development of Synthetic Function of SHA and LDPC Decoder
+- Parity Check Matrix (PCM) size and amount of required resources (mem, comp) can be changed.
+- PCM can change the value of each block by inputting the hash value of the previous block.
 
 ## Who made it?
 
 ECCPoW was developed in GIST's Infonet lab. if you want to contact us, please go to site(https://infonet.gist.ac.kr/)
-
-- Development of Synthetic Function of SHA and LDPC Decoder
-- Parity Check Matrix (PCM) size and amount of required resources (mem, comp) can be changed.
-- PCM can change the value of each block by inputting the hash value of the previous block.
 
 ## Development Environment
 
