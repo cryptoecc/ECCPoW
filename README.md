@@ -16,7 +16,7 @@ So, We needs new time-variant PoW. Basically, ASICs are useful when crypto puzzl
 
 ## Who made it?
 
-ECCPoW was developed in GIST's Infonet lab. if you want to contact us, please go to site(https://infonet.gist.ac.kr/)
+ECCPoW was developed in GIST's Infonet lab. if you want to contact us, please go to site(https://heungno.net)
 
 ## Development Environment
 
